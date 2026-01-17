@@ -1,4 +1,4 @@
-#Example of a back buffer in x11 with Rust.
+# Example of a back buffer in x11 with Rust.
 
 I don't usually write stuff up as I don't think they'd be significantly interesting to anyone but me. However I found this kind of fun to do so I thought I'd try and put something down in words.
 
